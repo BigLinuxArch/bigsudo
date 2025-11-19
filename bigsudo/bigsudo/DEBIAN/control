@@ -1,0 +1,10 @@
+Package: bigsudo
+Version: 7.0.1-1big1
+Depends: zenity
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:20
+Description: Scriipt to solve some problems with sudo in KDE
+
