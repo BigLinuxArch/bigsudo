@@ -7,7 +7,7 @@ arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/bigsudo"
 pkgdesc="Scriipt to solve some problems with sudo in KDE"
-source=("git+https://github.com/biglinux/bigsudo.git")
+source=("git+https://github.com/biglinux/bigsudo.git#branch=")
 md5sums=(SKIP)
 
 package() {
