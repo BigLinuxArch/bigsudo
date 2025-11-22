@@ -1,13 +1,13 @@
 # Maintainer: Bruno Goncalves <bigbruno@gmail.com>
 
 pkgname=bigsudo
-pkgver=7.0.1_1big
-pkgrel=1
+pkgver=
+pkgrel=
 arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/bigsudo"
 pkgdesc="Scriipt to solve some problems with sudo in KDE"
-source=("git+https://github.com/biglinux/bigsudo.git#branch=")
+source=("git+https://github.com/biglinux/bigsudo.git#branch=master")
 md5sums=(SKIP)
 
 package() {
