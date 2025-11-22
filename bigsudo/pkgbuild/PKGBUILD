@@ -1,8 +1,8 @@
 # Maintainer: Bruno Goncalves <bigbruno@gmail.com>
 
 pkgname=bigsudo
-pkgver=
-pkgrel=
+pkgver=7.0.1_1big
+pkgrel=1
 arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/bigsudo"
